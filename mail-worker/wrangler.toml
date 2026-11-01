@@ -24,11 +24,11 @@ enabled = true
 [[d1_databases]]
 binding = "db"			#d1æ•°æ®åº“ç»‘å®šåé»˜è®¤ä¸å¯ä¿®æ”¹
 database_name = "otsmail"
-database_id = "4db24bf3-789c-4760-aa34-3e4bad705967"
+database_id = "ecb548c7-53c8-4338-a4c5-cb8fdfcfa009"
 
 [[kv_namespaces]]
 binding = "kv"			#kvç»‘å®šåé»˜è®¤ä¸å¯ä¿®æ”¹
-id = "8477df59698d4915afb7baaa000d4870"
+id = "80cb2233b37645bebae8e82ff91ee6b5"
 
 [[r2_buckets]]
 binding = "r2"			#r2å¯¹è±¡å­˜å‚¨ç»‘å®šåé»˜è®¤ä¸å¯ä¿®æ”¹
